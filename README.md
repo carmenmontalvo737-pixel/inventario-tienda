@@ -23,4 +23,4 @@ REPOSITORIO:
 https://github.com/carmenmontalvo737-pixel/inventario-tienda.git
 
 AUTOR:
-Tu nombre completo
+Yudis  Del Carmen  Gonzalez Montalvo
