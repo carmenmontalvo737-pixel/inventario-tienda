@@ -2,7 +2,7 @@ NOMBRE DEL PROYECTO:
 Sistema de Inventario de Tienda 
 
 DESCRIPCIÓN:
-Sistema para gestionar productos de una tienda, permitiendo registrar, consultar y visualizar inventario.
+Sistema para gestionar productos de una tienda,permitiendo registrar, consultar y visualizar inventario.
 
 FUNCIONALIDADES:
 - Registrar productos
